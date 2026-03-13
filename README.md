@@ -3,3 +3,5 @@
 ## https://github.com/Misternice203/Python_Calculator
 
 ## https://github.com/Misternice203/Number_Guessing_Game
+
+## https://github.com/Misternice203/Student_Calculator
