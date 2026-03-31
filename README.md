@@ -1,13 +1,22 @@
 ### Projects I have Built / Working on in order from first to last!!
 
-## https://github.com/Misternice203/Python_Calculator
+## Project 1:
+* https://github.com/Misternice203/Python_Calculator
 
-## https://github.com/Misternice203/Number_Guessing_Game
+## Project 2: 
+* https://github.com/Misternice203/Number_Guessing_Game
 
-## https://github.com/Misternice203/Student_Calculator
+## Project 3:
+* https://github.com/Misternice203/Student_Calculator
 
-## https://github.com/Misternice203/Task_Manager
+## Project 4:
+* https://github.com/Misternice203/Task_Manager
 
-## https://github.com/Misternice203/Rock_Paper_Scissors
+## Project 5:
+* https://github.com/Misternice203/Rock_Paper_Scissors
 
-## https://github.com/Misternice203/Persistent_Task_Manager.py
+## Project 6:
+* https://github.com/Misternice203/Persistent_Task_Manager.py
+
+## Project 7:
+* https://github.com/Misternice203/Tic_Tac_Toe.py
