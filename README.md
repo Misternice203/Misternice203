@@ -20,3 +20,6 @@
 
 ## Project 7:
 * https://github.com/Misternice203/Tic_Tac_Toe.py
+
+## Project 8:
+* https://github.com/Misternice203/Budget_Tracker.py
